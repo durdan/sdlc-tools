@@ -79,3 +79,21 @@ npm run dev
 
 This will launch the app locally (by default at http://localhost:3000).
 
+## 🙏 **Acknowledgments**
+
+This project was inspired by and built upon the excellent work of **[@kehanzhang](https://github.com/kehanzhang)** and the **Lovable** team. We're grateful for their innovative approach to AI-powered web development, which served as the foundation for sdlc.dev.
+
+- **Original Author**: [@kehanzhang](https://github.com/kehanzhang) - Creator of the Lovable clone project
+- **Original Inspiration**: [Lovable](https://lovable.dev) - AI-powered web app generation
+- **Core Concept**: Text-to-code generation with real-time preview
+- **Technical Foundation**: Next.js + Claude SDK integration patterns
+
+While sdlc.dev has evolved with its own unique features (like the upcoming GitHub digest functionality) and clean, minimal design philosophy, we acknowledge and appreciate the pioneering work that made this possible.
+
+**What we've added:**
+- 🎨 Clean, Claude-inspired minimal UI design
+- 🔍 Comprehensive GitHub repository analysis (coming soon)
+- 📊 AI-powered code quality insights and onboarding guides
+- 🏗️ Enhanced Daytona workspace integration
+- 🔒 Improved security and privacy features
+
