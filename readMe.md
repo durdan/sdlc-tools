@@ -1,4 +1,4 @@
-# Lovable Clone
+# sdlc.dev - AI-Powered Development Platform
 
 Thank you so much for checking out this project! 🙏  
 We appreciate your interest and hope you enjoy exploring and building with it.
@@ -19,11 +19,11 @@ DAYTONA_API_KEY=your_daytona_api_key
 
 ## Install & Run
 
-From the `lovable-ui` directory, install all dependencies and start the development server:
+From the `sdlc-tools` directory, install all dependencies and start the development server:
 
 
 ```bash
-cd lovable-ui
+cd sdlc-tools
 
 npm install
 npm run dev
