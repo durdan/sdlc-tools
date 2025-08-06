@@ -11,10 +11,18 @@
   "dependencies": {
     "@anthropic-ai/claude-code": "^1.0.39",
     "@daytonaio/sdk": "^0.21.5",
+    "@octokit/auth-oauth-app": "^9.0.1",
+    "@octokit/rest": "^22.0.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "dotenv": "^17.0.1",
+    "jspdf": "^3.0.1",
+    "lucide-react": "^0.525.0",
     "next": "14.2.3",
+    "next-auth": "^4.24.11",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^15.6.1"
   },
   "devDependencies": {
     "@types/node": "^20",

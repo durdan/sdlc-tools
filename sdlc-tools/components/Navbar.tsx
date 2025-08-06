@@ -15,14 +15,14 @@ export default function Navbar() {
         </a>
 
         <div className="hidden md:flex items-center gap-8 text-sm text-gray-300">
+          <a href="/generate" className="hover:text-white transition-colors">
+            Generate
+          </a>
+          <a href="/github" className="hover:text-white transition-colors">
+            GitHub Analysis
+          </a>
           <a href="#" className="hover:text-white transition-colors">
             Docs
-          </a>
-          <a href="#" className="hover:text-white transition-colors">
-            Examples
-          </a>
-          <a href="#" className="hover:text-white transition-colors">
-            API
           </a>
         </div>
       </div>
