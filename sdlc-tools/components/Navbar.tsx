@@ -21,6 +21,9 @@ export default function Navbar() {
           <a href="/github" className="hover:text-white transition-colors">
             GitHub Analysis
           </a>
+          <a href="/diagram-fix" className="hover:text-white transition-colors">
+            Fix Diagrams
+          </a>
           <a href="#" className="hover:text-white transition-colors">
             Docs
           </a>
